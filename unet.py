@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import cv2
 import os
 from keras.callbacks import ModelCheckpoint
@@ -87,7 +88,7 @@ class myUnet(keras.Model):
 		model_checkpoint = ModelCheckpoint('my_unet.hdf5', monitor='loss', verbose=1, save_best_only=True)
 
 		print('Fitting model...')
-		myunet= data.trainGenerator(batch_size=2, image_path='./data_set/image', image_folder='train',
+		myunet= data.trainGenerator(batch_size=2, image_path='./data_set/merge', image_folder='train',
 		                            mask_folder='label')
 		model.fit_generator(
 			myunet,
@@ -102,7 +103,6 @@ class myUnet(keras.Model):
 		imgs_mask_test = model.predict_generator(testGene, 30, verbose=1)              #测试集加载已训练好的模型
 		np.save('./data_set/test/imgs_mask_test_1.npy', imgs_mask_test)
 		data.saveResult()
-		print("预测概率：", imgs_mask_test)
 
 
 	def Cell_conut(self):
@@ -111,13 +111,15 @@ class myUnet(keras.Model):
 		:return:
 		'''
 		print("图像中的细胞个数：")
-		img = cv2.imread('./data_set/result/0.tif')
+		img = cv2.imread('./data_set/result/12.tif')
+		show_img = cv2.imread('./data_set/test/12.tif')
 		binaryimg = cv2.Canny(img, 50, 200)             #边缘检测
 		h = cv2.findContours(binaryimg, cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)       #连同区域计数
 		contours = h[1]
-		cv2.imshow('img',binaryimg)
-		cv2.waitKey(0)
 		print(len(contours))
+		cv2.imshow('img', img)
+		cv2.imshow("first-image", show_img)
+		cv2.waitKey(0)
 
 if __name__ == '__main__':
 	myunet = myUnet()

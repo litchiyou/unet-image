@@ -51,7 +51,8 @@ class Augmentation(object):
 		return img, mask
 
 	def trainGenerator(self, batch_size, image_path, image_folder, mask_folder, color_mode="grayscale",
-	                   image_save_prefix="image", mask_save_prefix="mask",save_to_dir='./data_set/merge',save_format='tif',
+	                   image_save_prefix="image", mask_save_prefix="mask",save_format='tif',
+	                   train_save_to_dir='./data_set/merge/train',mask_save_to_dir='./data_set/merge/label',
 	                   flag_multi_class=False, num_class=2,
 	                   target_size=(256, 256), seed=1):
 		'''
@@ -65,7 +66,7 @@ class Augmentation(object):
 			color_mode=color_mode,
 			target_size=target_size,
 			batch_size=batch_size,
-			save_to_dir=save_to_dir,
+			save_to_dir=train_save_to_dir,
 			save_prefix=image_save_prefix,
 			save_format=save_format,
 			shuffle=True,
@@ -77,7 +78,7 @@ class Augmentation(object):
 			color_mode=color_mode,
 			target_size=target_size,
 			batch_size=batch_size,
-			save_to_dir=save_to_dir,
+			save_to_dir=mask_save_to_dir,
 			save_prefix=mask_save_prefix,
 			save_format=save_format,
 			shuffle=True,

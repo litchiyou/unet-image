@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8aa9ee2d-8237-4659-871c-61a9ed40cfc4" name="Default" comment="" />
+    <list default="true" id="8aa9ee2d-8237-4659-871c-61a9ed40cfc4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_0_5444523.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_10_4543356.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_10_5396126.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_11_3749553.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_12_4135126.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_13_1588697.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_14_4549020.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_14_864897.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_15_6784744.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_15_7109572.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_16_2789354.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_17_3645496.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_18_6522008.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_19_6873099.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_19_9547455.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_1_8194194.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_2_2338108.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_3_2154162.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_3_7995823.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_4_5040550.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_5_6883003.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_5_7810102.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_6_4369527.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_6_8801850.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_7_740989.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_8_6822162.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_9_53811.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/image_9_95556.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_0_5444523.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_10_4543356.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_10_5396126.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_11_3749553.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_12_4135126.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_13_1588697.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_14_4549020.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_14_864897.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_15_6784744.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_15_7109572.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_16_2789354.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_17_3645496.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_18_6522008.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_19_6873099.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_19_9547455.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_1_8194194.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_2_2338108.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_3_2154162.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_3_7995823.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_4_5040550.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_5_6883003.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_5_7810102.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_6_4369527.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_6_8801850.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_7_740989.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_8_6822162.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_9_53811.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_9_95556.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_strength.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_strength.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unet.py" beforeDir="false" afterPath="$PROJECT_DIR$/unet.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,22 +70,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tensor$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1545889127692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensor$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1545983340596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="unet.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="23">
+              <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="data_strength.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_strength.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+              <folding>
+                <element signature="e#25#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -35,10 +105,14 @@
       <find>COLOR_DICT</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/data_stronger.py" />
+        <option value="$PROJECT_DIR$/data_strength.py" />
         <option value="$PROJECT_DIR$/unet.py" />
       </list>
     </option>
@@ -63,27 +137,14 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="tensor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensor" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/unet.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,19 +203,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.52012384" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46976745" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25340393" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -165,6 +226,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,17 +244,44 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data_stronger.py">
+    <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5742">
-          <caret line="266" column="5" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
+        <state relative-caret-position="242">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data_strength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+          <folding>
+            <element signature="e#25#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_strength.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_stronger.py" />
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -200,13 +289,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_stronger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5852">
-          <caret line="266" column="5" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data_stronger.py" />
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2662">
@@ -214,13 +297,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_stronger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5544">
-          <caret line="252" column="45" selection-start-line="252" selection-start-column="45" selection-end-line="252" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data_stronger.py" />
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -228,13 +305,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_stronger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5544">
-          <caret line="252" column="45" selection-start-line="252" selection-start-column="45" selection-end-line="252" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data_stronger.py" />
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2420">
@@ -242,13 +313,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_stronger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5588">
-          <caret line="254" column="60" selection-start-line="254" selection-start-column="60" selection-end-line="254" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data_stronger.py" />
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3102">
@@ -256,13 +321,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_stronger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5588">
-          <caret line="254" column="60" selection-start-line="254" selection-start-column="60" selection-end-line="254" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data_stronger.py" />
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3344">
@@ -277,16 +336,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/U-net-segmentation-master/U-net-segmentation-master/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="89" column="21" lean-forward="true" selection-start-line="87" selection-start-column="12" selection-end-line="89" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#94#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/U-net-segmentation-master/U-net-segmentation-master/data.py" />
     <entry file="file://D:/python3/Lib/site-packages/skimage/util/dtype.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -294,39 +344,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/U-net-segmentation-master/U-net-segmentation-master/test_predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/U-net-segmentation-master/U-net-segmentation-master/unet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_stronger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/U-net-segmentation-master/U-net-segmentation-master/test_predict.py" />
+    <entry file="file://$USER_HOME$/Desktop/U-net-segmentation-master/U-net-segmentation-master/unet.py" />
+    <entry file="file://$PROJECT_DIR$/data_stronger.py" />
     <entry file="file://$PROJECT_DIR$/data_strength.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+          <folding>
+            <element signature="e#25#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="23">
+          <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
