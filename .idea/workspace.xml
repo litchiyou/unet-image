@@ -3,64 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8aa9ee2d-8237-4659-871c-61a9ed40cfc4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_0_5444523.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_10_4543356.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_10_5396126.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_11_3749553.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_12_4135126.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_13_1588697.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_14_4549020.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_14_864897.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_15_6784744.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_15_7109572.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_16_2789354.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_17_3645496.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_18_6522008.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_19_6873099.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_19_9547455.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_1_8194194.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_2_2338108.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_3_2154162.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_3_7995823.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_4_5040550.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_5_6883003.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_5_7810102.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_6_4369527.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_6_8801850.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_7_740989.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_8_6822162.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_9_53811.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/image_9_95556.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_0_5444523.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_10_4543356.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_10_5396126.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_11_3749553.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_12_4135126.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_13_1588697.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_14_4549020.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_14_864897.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_15_6784744.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_15_7109572.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_16_2789354.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_17_3645496.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_18_6522008.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_19_6873099.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_19_9547455.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_1_8194194.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_2_2338108.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_3_2154162.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_3_7995823.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_4_5040550.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_5_6883003.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_5_7810102.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_6_4369527.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_6_8801850.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_7_740989.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_8_6822162.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_9_53811.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/merge/mask_9_95556.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_strength.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_strength.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unet.py" beforeDir="false" afterPath="$PROJECT_DIR$/unet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,17 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tensor$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1545983340596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensor$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1545984323775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="unet.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+            <state relative-caret-position="-219">
+              <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#24#34#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,8 +31,8 @@
       <file leaf-file-name="data_strength.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_strength.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+            <state relative-caret-position="-308">
+              <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
               <folding>
                 <element signature="e#25#62#0" expanded="true" />
               </folding>
@@ -203,14 +145,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46976745" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9410853" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25340393" />
@@ -250,18 +191,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="1826">
+          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#24#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_strength.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        <state relative-caret-position="1342">
+          <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
           <folding>
             <element signature="e#25#62#0" expanded="true" />
           </folding>
@@ -270,11 +211,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_strength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#25#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_strength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unet.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -349,8 +321,8 @@
     <entry file="file://$PROJECT_DIR$/data_stronger.py" />
     <entry file="file://$PROJECT_DIR$/data_strength.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+        <state relative-caret-position="-308">
+          <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
           <folding>
             <element signature="e#25#62#0" expanded="true" />
           </folding>
@@ -359,10 +331,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+        <state relative-caret-position="-219">
+          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#24#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
